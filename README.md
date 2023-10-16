@@ -13,4 +13,4 @@ To use these scripts, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you have a script you would like to add, please submit a pull request.
+Contributions are welcome! If you have a script you would like to add or notice a bug in one of the scripts, please submit a pull request.
