@@ -1,4 +1,4 @@
-## GenerateLogoVariants
+## Create Logo Swatches
 
 This script takes the currently selected objects in a document and generates color swatches for each color, showing the RGB, CMYK, and Hex values for each color.
 

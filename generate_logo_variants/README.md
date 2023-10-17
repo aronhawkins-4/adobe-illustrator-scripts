@@ -1,4 +1,4 @@
-## GenerateLogoVariants
+## Generate Logo Variants
 
 This script takes the currently selected objects in a document, and if the first selected object is a CompoundPathItem,
 it creates variants of that object with the fill colors from the other selected objects.
