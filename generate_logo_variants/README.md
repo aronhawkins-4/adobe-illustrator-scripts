@@ -13,4 +13,4 @@ it creates variants of that object with the fill colors from the other selected 
 
 ### Example:
 
-https://vimeo.com/875354800?share=copy
+https://player.vimeo.com/video/875354800?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture
